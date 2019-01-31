@@ -1,1 +1,2 @@
-hola aixo es la segona prova de git a branch 
+hola aixo es la segona prova de git a master
+ 
